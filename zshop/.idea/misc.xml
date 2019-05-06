@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/zhop_parent" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/zhop_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/zhop_parent/zshop_dao/pom.xml" />
+        <option value="$PROJECT_DIR$/zhop_parent/zshop_common/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectResources">
+    <resource url="aop" location="$PROJECT_DIR$/../../../../java-包/springMVC/01.参考资料/spring约束/spring-aop-4.0.xsd" />
+    <resource url="context" location="$PROJECT_DIR$/../../../../java-包/springMVC/01.参考资料/spring约束/spring-context-4.0.xsd" />
+    <resource url="mvc" location="$PROJECT_DIR$/../../../../java-包/springMVC/01.参考资料/spring约束/spring-mvc-4.0.xsd" />
+    <resource url="tx" location="$PROJECT_DIR$/../../../../java-包/springMVC/01.参考资料/spring约束/spring-tx-4.0.xsd" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_12" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

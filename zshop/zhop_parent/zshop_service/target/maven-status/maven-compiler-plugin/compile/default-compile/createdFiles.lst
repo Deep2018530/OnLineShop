@@ -1,0 +1,5 @@
+com\lanqiao\zshop\service\impl\ProductTypeServiceImpl.class
+com\lanqiao\zshop\dto\ProductDto.class
+com\lanqiao\zshop\service\impl\ProductServiceImpl.class
+com\lanqiao\zshop\service\ProductTypeService.class
+com\lanqiao\zshop\service\ProductService.class

@@ -1,0 +1,9 @@
+10.2.25.2 - - [06/May/2019:16:57:30 +0800] "GET /backend/sysuser/login HTTP/1.1" 200 3414 http-bio-9001-exec-1 657
+10.2.25.2 - - [06/May/2019:16:57:30 +0800] "GET /css/bootstrap.css HTTP/1.1" 304 - http-bio-9001-exec-2 24
+10.2.25.2 - - [06/May/2019:16:57:30 +0800] "GET /js/jquery.js HTTP/1.1" 304 - http-bio-9001-exec-4 3
+10.2.25.2 - - [06/May/2019:16:57:30 +0800] "GET /js/bootstrap.js HTTP/1.1" 304 - http-bio-9001-exec-5 5
+10.2.25.2 - - [06/May/2019:16:57:30 +0800] "GET /css/index.css HTTP/1.1" 304 - http-bio-9001-exec-3 19
+10.2.25.2 - - [06/May/2019:16:57:30 +0800] "GET /js/userSetting.js HTTP/1.1" 304 - http-bio-9001-exec-6 24
+10.2.25.2 - - [06/May/2019:16:57:31 +0800] "GET /backend/productType/findAll HTTP/1.1" 200 16293 http-bio-9001-exec-7 808
+10.2.25.2 - - [06/May/2019:16:57:32 +0800] "GET /backend/product/findAll HTTP/1.1" 200 12220 http-bio-9001-exec-7 111
+10.2.25.2 - - [06/May/2019:16:57:42 +0800] "POST /backend/product/add HTTP/1.1" 200 12232 http-bio-9001-exec-7 197

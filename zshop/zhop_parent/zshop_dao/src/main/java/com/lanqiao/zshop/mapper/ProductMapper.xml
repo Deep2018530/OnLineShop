@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.lanqiao.zshop.dao.ProductDao">
+
+    <insert id="insert" parameterType="Product">
+        insert into t_product
+        (name, price, info, image, product_type_id)
+        values
+        (#{name},#{price},#{info},#{image},#{productType.id})
+    </insert>
+
+</mapper>

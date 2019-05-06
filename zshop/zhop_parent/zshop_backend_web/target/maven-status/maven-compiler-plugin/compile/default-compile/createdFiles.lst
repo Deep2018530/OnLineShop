@@ -1,0 +1,4 @@
+com\lanqiao\zshop\backend\vo\ProductVo.class
+com\lanqiao\zshop\backend\controller\ProductController.class
+com\lanqiao\zshop\backend\controller\SysuserController.class
+com\lanqiao\zshop\backend\controller\ProductTypeController.class
